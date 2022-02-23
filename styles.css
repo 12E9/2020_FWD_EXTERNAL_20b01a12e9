@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    font-size: 14px;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+li{
+    display:inline;
+}
+#w{
+    padding-left: 900px;
+}
+#move{
+    padding-left: 10px;
+}
+#m{
+    padding-left: 10px;
+}
+#p{
+    padding-left: 10px;
+}
+#l{
+    padding-left: 10px;
+}
+nav{
+    background-color: red;
+    height: 150%;
+    width:100%;
+}
+a:hover{
+    color: white;
+    background-color: black;
+}
